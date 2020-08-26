@@ -1,0 +1,16 @@
+for: Es la manera en como se le denomina a un ciclo en programación, 
+con el cual podemos repetir acciones cuantas veces queramos, 
+para ello utilizamos varibales las cuales podran cambiar segun nuestra necesidad.
+
+
+Los siguientes hacen parte de los operadores booleanos donde:
+
+&& : Estos equivalen a un AND en ingles o "Y" en español, lo que significa que solo nos dara un valor verdadero
+o True, si solo las dos variables si cumplen los requisitos que les damos.
+
+||  : Este operador boleano significa "OR ", lo que nos quiere decir que puede
+cumplirse uno u otra variable para darnos una respuesta de True o poisitva.
+
+ !: Este en un signo que nos ayudara a contradecir los
+ terminos, funciones  o las declaraciones que estbalecemos previamente, si 2==1 es false 
+con este podremos declarar que si es verdadero.
