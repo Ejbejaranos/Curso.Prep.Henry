@@ -1,0 +1,20 @@
+Variables: Una variable es algo que denotamos con una letra o simbolo , 
+la cual podemos manejar para que nos represente cualquier valor. 
+Estas variables pueden ser categorizadas en varios tipos, como string o number
+
+Strings: Los strings son una tipo de variable caracterizada por que su contenido contiene valores netamente de texto.
+
+
+Funciones (argumentos, return): Las funciones son una o varias operaciones realizadas
+en la misma, la idea es crear varias operaciones basadas en variables, para luego llamar
+las funciones cambiando las variables cuantas veces necesitemos.
+
+
+Declaraciones if: Se conoce como un condicional en donde podemos plantear que ocurriria si 
+se cumpliera o no cierta situacion bajo ciertos parametros.
+
+
+
+Valores booleanos (true, false):Es un valor que se determina como verdadero o falso 
+segun el argumento que probemos.
+
